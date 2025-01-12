@@ -1,0 +1,2 @@
+# Jogo da Forca
+ O projeto consiste em um jogo focado em acertos de palavras. Desenvolvi-o na linguagem Python utilizando as seguintes bibliotecas: random, Pillow e tkinter. O jogo permite até 6 tentativas de erro. Além disso, inclui uma animação que monta o boneco da forca progressivamente a cada erro. Também implementei funcionalidades para resetar o jogo e avançar para a próxima palavra, tanto ao errar quanto ao acertar a palavra da forca.
